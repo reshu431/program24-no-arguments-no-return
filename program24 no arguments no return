@@ -1,0 +1,10 @@
+#include<stdio.h>
+void hi()
+{
+    printf("my name is reshma");
+}
+int main()
+{
+    hi();
+    return 0;
+}
