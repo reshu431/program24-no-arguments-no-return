@@ -1,0 +1,1 @@
+# program24-no-arguments-no-return
